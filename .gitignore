@@ -5,3 +5,5 @@
 *.snm
 *.nav
 *.pdf
+*.toc
+*gz
